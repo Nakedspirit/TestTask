@@ -1,13 +1,12 @@
 import './App.css'
 
-import Search from './Search'
-// import SatelliteSearch from './SatelliteSearch'
+import MainPage from './pages/MainPage'
 
 
 function App() {
   return (
     <div className="App">
-      <Search />
+      <MainPage />
   </div>
   )
 }
